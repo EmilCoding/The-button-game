@@ -1,0 +1,17 @@
+"""
+Settings used in "Teh Button Game"
+"""
+# Game object
+FPS = 60.0
+SCREEN_WIDTH = 1080
+SCREEN_HEIGHT = 720
+
+# Boxes
+BOX_FONTSIZE = 40
+MAXIMUM_LIFETIME_SECONDS = 10.0
+SPAWN_WINDOW_SIZE_SECONDS = 1.0
+
+
+# Ui
+UI_FONTSIZE = 30
+UI_COLOR = 'red'
